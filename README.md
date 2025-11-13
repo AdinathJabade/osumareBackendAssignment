@@ -22,7 +22,7 @@ Quick start
 git clone https://github.com/AdinathJabade/osumarebackendassignment.git
 cd osumarebackendassignment
 npm install
-npm start
+npm run dev
 ```
 
 Open the API at: `http://localhost:8080/tasks`
